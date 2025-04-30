@@ -1,17 +1,19 @@
-# 🧪 Teste Técnico – Processamento Backend
+# Teste Técnico – Processamento Backend
 
 **Início:** 30/04/2025 – 14:15  
 **Fim:** 30/04/2025 - 16:30
 
 ---
 
-##  Descrição
+##  Descrição do desafio
 
-Script desenvolvido para processar arquivos `.pdf` e `.html`, extrair seu conteúdo e gerar saídas em `.txt`, com relatório de performance ao final.
+Desenvolver um projeto em C#, Python ou Java com máxima performance que extraia o texto dos
+documentos PDF e HTML, salve o texto dos documentos em disco e gere um relatório com
+algumas informações sobre o processamento.
 
 ---
 
-## ⚙️ Passos para execução
+## Passos para execução
 
 1. **Criar ambiente virtual**
 ```bash
@@ -37,4 +39,4 @@ py main.py
 
 ---
 
-✅ Ao final, será gerado o arquivo `relatorio_final.txt` com as estatísticas de processamento.
+Ao final, será gerado o arquivo `relatorio_final.txt` com as estatísticas de processamento.
